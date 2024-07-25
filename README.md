@@ -31,12 +31,6 @@ Create a personal portfolio website to showcase your projects and skills. The we
 3. **JavaScript**: Add interactivity if needed, such as a smooth scroll for the navigation.
 4. **Hosting**: Deploy the website using a service like GitHub Pages, Netlify, or Vercel.
 
-### Example
-
-![Portfolio Website](screen shots/p1.png)
-![Portfolio Website prompt](screen shots/p1-prompt.png)
-
-## Project 2: Color-Changing Clock Background
 
 ### Description
 
@@ -56,11 +50,7 @@ Create a web application that displays the current time and changes the backgrou
 3. **JavaScript**: Write the JavaScript to update the clock every second and change the background color.
 4. **Color Selection**: Add functionality for users to select a background color from swatches.
 
-### Example
 
-![Color-Changing Clock](screen shots/p2.png)
-![Color-Changing Clock](screen shots/p2-2.png)
-![Color-Changing Clock prompt](screen shots/p2-prompt.png)
 
 ## Using AI Prompts
 
